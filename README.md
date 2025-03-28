@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Web Technologies
 - 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to collaborate on Real WOrld Web Projects
+- 👯 I’m looking to collaborate on Real World Web Projects
 
 
 
