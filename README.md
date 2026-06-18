@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Web Technologies
-- 🌱 I’m  MERN Stack Developer
+- 🌱 I’m  MERN/Next Developer
 - 👯 I’m looking to collaborate on Real World Web and AI Projects
 
 
